@@ -30,19 +30,6 @@ Aquí tienes las principales herramientas con las que trabajo:
 
 ---
 
-## Mis Estadísticas de GitHub
-
-> *Nota: Para que se carguen tus datos reales, reemplaza `[TU_USUARIO_DE_GITHUB]` en el código por tu nombre de usuario exacto.*
-
-### Resumen General y Racha (Streaks)
-
-A continuación, puedes ver un resumen de mi actividad en la plataforma y mi racha de contribuciones diarias.
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas generales" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=[TU_USUARIO_DE_GITHUB]&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
 ### Mis Lenguajes Más Usados
 
 Esta tarjeta muestra automáticamente cuáles son los lenguajes principales en mis repositorios públicos.
