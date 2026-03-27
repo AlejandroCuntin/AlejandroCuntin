@@ -11,7 +11,7 @@
 -  **Actualmente me enfoco en:** Profundizar en frameworks modernos de JavaScript y patrones de diseño en Java.
 -  **Intereses:** Me apasiona la resolución de problemas lógicos y la creación de interfaces de usuario atractivas.
 -  **No dudes en preguntarme sobre:** Algoritmia en C, estructuras de Java o el caos maravilloso de JavaScript.
--  **Cómo encontrarme:** [Tu email de contacto (opcional)]
+-  **Cómo encontrarme:** [AlejandroBariteau@gmail.com]
 
 ---
 
