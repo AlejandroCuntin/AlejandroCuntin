@@ -28,16 +28,6 @@ Aquí tienes las principales herramientas con las que trabajo:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
-
-### Mis Lenguajes Más Usados
-
-Esta tarjeta muestra automáticamente cuáles son los lenguajes principales en mis repositorios públicos.
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AlejandroCuntin&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-
----
-
 ##  Conecta conmigo
 
 ¡Me encantaría conectar y colaborar en proyectos interesantes!
