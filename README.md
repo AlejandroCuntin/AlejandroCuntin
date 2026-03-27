@@ -1,15 +1,9 @@
 
 <img src="banner.png" alt="Banner del portfolio de Alejandro" width="100%" />
-
-###  Desarrollador de Software con pasión por el código y el frontend
-
-¡Bienvenido a mi rincón en GitHub! Tengo una sólida formación con lenguajes de bajo nivel y de industria como **C** y **Java**, que combino con mi entusiasmo por el desarrollo web usando **HTML, CSS y JavaScript**. Siempre estoy buscando nuevos retos y formas de mejorar mis habilidades.
-
 ---
-
 ## Sobre mí y mis objetivos
 
--  **Actualmente me enfoco en:** Profundizar en frameworks modernos de JavaScript y patrones de diseño en Java.
+-  **Actualmente me enfoco en:** Profundizar en frameworks modernos y en inteligencia artificial
 -  **Intereses:** Me apasiona la resolución de problemas lógicos y la creación de interfaces de usuario atractivas.
 -  **No dudes en preguntarme sobre:** Algoritmia en C, estructuras de Java o el caos maravilloso de JavaScript.
 -  **Cómo encontrarme:** [AlejandroBariteau@gmail.com]
