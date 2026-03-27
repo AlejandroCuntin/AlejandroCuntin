@@ -1,4 +1,5 @@
-# ¡Hola! Soy Alejandro Cuntín Bariteau 
+
+<img src="banner.jpg" alt="Banner del portfolio de Alejandro" width="100%" />
 
 ###  Desarrollador de Software con pasión por el código y el frontend
 
