@@ -1,5 +1,5 @@
 
-<img src="banner.png" alt="Banner del portfolio de Alejandro" width="100%" />
+<img src="bannerprincipal.png" alt="Banner del portfolio de Alejandro" width="100%" />
 
 ## Sobre mí y mis objetivos
 
