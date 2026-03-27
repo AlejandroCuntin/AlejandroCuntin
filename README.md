@@ -1,4 +1,6 @@
 
+<img src="bannerprincipal.png" alt="Banner del portfolio de Alejandro" width="100%" />
+
 ## Sobre mí y mis objetivos
 
 -  **Actualmente me enfoco en:** Profundizar en frameworks modernos y en inteligencia artificial
