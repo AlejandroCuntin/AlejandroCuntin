@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="banner.png" alt="LinkedIn Banner" width="100%">
+  <img width="3280" height="1312" alt="banner" src="https://github.com/user-attachments/assets/6923614b-4620-4b66-b597-12f8077cf62d" />
 </p>
 
 # Alejandro Cuntin Bariteau
