@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="3280" height="1312" alt="banner" src="./banner.png" />
+  <img width="3280" height="1312" alt="banner" src="https://raw.githubusercontent.com/AlejandroCuntin/AlejandroCuntin/refs/heads/main/banner.png" />
 </p>
 
 # Alejandro Cuntin Bariteau
