@@ -156,9 +156,6 @@ Embedded systems project featuring a 3-DOF robotic arm controlled through servos
 LinkedIn  
 https://www.linkedin.com/in/alejandro-cuntin-bariteau-339651360/
 
-Email  
-Alejandrobariteau@gmail.com
-
 GitHub  
 https://github.com/AlejandroCuntin
 
