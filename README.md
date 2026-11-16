@@ -56,7 +56,7 @@ Lately I've been exploring data science, explainable AI, LLM fundamentals, and c
 
 ## Areas of Interest
 
-Artificial Intelligence · Machine Learning · LLMs · Cybersecurity · Data Science · Backend Engineering · Blockchain · Distributed Systems · Robotics
+Artificial Intelligence · Machine Learning · LLMs · Data Science ·
 
 ## Languages
 
