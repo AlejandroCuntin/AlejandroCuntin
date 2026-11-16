@@ -37,9 +37,7 @@ Lately I've been exploring data science, explainable AI, LLM fundamentals, and c
 | [NextGen Health](https://github.com/AlejandroCuntin/hackaton-boehringer-ingelheim-2026) | Experimental hackathon prototype for reviewing laboratory analytics. Includes a React interface, FastAPI backend, XGBoost model, longitudinal analysis, and SHAP explanations. |
 | [LLM Internals](https://github.com/AlejandroCuntin/llm-internals) | Learning project that implements automatic differentiation, backpropagation, small neural networks, and SGD, Momentum, and Adam optimizers in pure Python. |
 | [UltraFit](https://github.com/AlejandroCuntin/fitness-booking-website) | Fitness and membership management platform with Spring Boot, a REST API, authentication, reservations, and persistent storage. |
-| [Decentralized Library](https://github.com/AlejandroCuntin/library-smart-contracts-erc20-token) | Library management system using Solidity smart contracts and a custom ERC-20 token for loans, returns, donations, and penalties. |
 | [MiSanidad](https://github.com/AlejandroCuntin/healthcare-management-system) | Java Swing healthcare management app with role-based dashboards, appointment scheduling, data persistence, and CSV reports. |
-| [Arduino Robotic Arm](https://github.com/AlejandroCuntin/arduino-robotic-arm-controller) | 3-DOF robotic arm controlled with servos, a stepper motor, rotary encoder, and Arduino. |
 
 ## Hackathons
 
@@ -48,11 +46,11 @@ Lately I've been exploring data science, explainable AI, LLM fundamentals, and c
 
 ## Toolbox
 
-**Languages:** Java · Python · C · JavaScript · Solidity · SQL  
+**Languages:** Java · Python · C · JavaScript · SQL  
 **Backend & software engineering:** Spring Boot · FastAPI · REST APIs · Hibernate/JPA · Maven · OOP · software architecture  
 **AI & data:** pandas · NumPy · scikit-learn · XGBoost · SHAP · ONNX · data analysis · model evaluation  
 **Frontend:** React · Vite · Tailwind CSS  
-**Other:** Git · Linux · Arduino · Oracle · H2 Database · smart contracts
+**Other:** Git · Linux · Oracle · H2 Database ·
 
 ## Areas of Interest
 
