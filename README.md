@@ -2,158 +2,48 @@
   <img width="3280" height="1312" alt="banner" src="https://raw.githubusercontent.com/AlejandroCuntin/AlejandroCuntin/refs/heads/main/banner.png" />
 </p>
 
-# Alejandro Cuntin Bariteau
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlejandroCuntin/AlejandroCuntin/main/banner.png" alt="Alejandro Cuntin — Computer Engineering, Software Engineering, AI and Cybersecurity" width="100%" />
+</p><h1 align="center">Hi, I'm Alejandro Cuntin 👋</h1><p align="center">
+  <strong>Computer Engineering student @ Universidad Rey Juan Carlos</strong><br />
+  Building software systems, exploring AI, and developing secure technology.
+</p><p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-cuntin-bariteau-339651360/">LinkedIn</a> ·
+  <a href="https://github.com/AlejandroCuntin">GitHub</a> ·
+  Madrid, Spain
+</p><p align="center">
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#hackathons">Hackathons</a> ·
+  <a href="#toolbox">Toolbox</a> ·
+  <a href="#about-me">About</a>
+</p>About Me
+I'm a Computer Engineering student at URJC, expected to graduate in 2028. I enjoy building practical software and learning how systems work, from backend services and data pipelines to machine learning and embedded robotics.
 
-Computer Engineering Student @ URJC
+Lately I've been exploring data science, explainable AI, LLM fundamentals, and cybersecurity through hands-on projects and hackathons.
+Featured Projects
+Project	What I built
+MadridNEXT 🥇	Datathon LoDCORE 2026 winner. A what-if simulator for 155 municipalities in the Community of Madrid, combining demographic and service-capacity models with interactive maps. Built a reproducible Python ML pipeline and exported models to ONNX for Oracle integration.
+NextGen Health	Experimental hackathon prototype for reviewing laboratory analytics. Includes a React interface, FastAPI backend, XGBoost model, longitudinal analysis, and SHAP explanations.
+LLM Internals	Learning project that implements automatic differentiation, backpropagation, small neural networks, and SGD, Momentum, and Adam optimizers in pure Python.
+UltraFit	Fitness and membership management platform with Spring Boot, a REST API, authentication, reservations, and persistent storage.
+Decentralized Library	Library management system using Solidity smart contracts and a custom ERC-20 token for loans, returns, donations, and penalties.
+MiSanidad	Java Swing healthcare management app with role-based dashboards, appointment scheduling, data persistence, and CSV reports.
 
-Building software systems, exploring AI, and developing secure technology for the future.
 
-**Software Engineering • Artificial Intelligence • Cybersecurity**
-
-Madrid, Spain
-
----
-
-## About Me
-
-I'm a Computer Engineering student passionate about building software systems that solve real-world problems.
-
-My experience ranges from enterprise management platforms and healthcare systems to blockchain applications and embedded robotics projects.
-
-Currently, I am focused on strengthening my foundations in Software Engineering while expanding my knowledge in Artificial Intelligence, Data Science and Cybersecurity.
-
-Expected Graduation: **2028**
-
----
-
-## Technical Skills
-
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge)
-
-### Software Engineering
-
-- Spring Boot
-- REST APIs
-- Hibernate
-- JPA
-- Object-Oriented Programming (OOP)
-- Software Architecture
-- Data Structures & Algorithms
-
-### Technologies
-
-- Git & GitHub
-- Linux
-- Arduino
-- Maven
-- H2 Database
-- Smart Contracts
-- ERC-20 Tokens
-
-### Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Cybersecurity
-- Data Science
-- Backend Engineering
-- Blockchain
-- Distributed Systems
-
----
-
-## Languages
-
-| Language | Level |
-|-----------|---------|
-| 🇪🇸 Spanish | Native |
-| 🇫🇷 French | Native |
-| 🇬🇧 English | Advanced |
-| 🇮🇹 Italian | Basic |
-
----
-
-## Featured Projects
-
-### UltraFit
-
-Fitness management platform built with Spring Boot.
-
-**Highlights**
-- Authentication system
-- Reservation management
-- Membership plans
-- REST API architecture
-- Persistent database storage
-
-🔗 Repository:
-https://github.com/AlejandroCuntin/fitness-booking-website
-
----
-
-### Decentralized Library
-
-Blockchain-based library management platform powered by Solidity Smart Contracts and ERC-20 utility tokens.
-
-**Highlights**
-- Custom ERC-20 token
-- Lending and penalty system
-- Smart contract architecture
-- Decentralized business logic
-
-🔗 Repository:
-https://github.com/AlejandroCuntin/library-smart-contracts-erc20-token
-
----
-
-### MiSanidad
-
-Healthcare management system built with Java Swing and Object-Oriented Programming principles.
-
-**Highlights**
-- Multi-role architecture
-- Medical records management
-- Appointment scheduling
-- Data persistence
-- CSV report generation
-
-🔗 Repository:
-https://github.com/AlejandroCuntin/healthcare-management-system
-
----
-
-### Arduino Robotic Arm
-
-Embedded systems project featuring a 3-DOF robotic arm controlled through servos, stepper motors and rotary encoders.
-
-**Highlights**
-- Hardware interrupts
-- Real-time control
-- Embedded programming
-- Robotics fundamentals
-
----
-
-## Currently Learning
-
-- Machine Learning
-- Data Science
-- Cybersecurity
-- AI Systems
-- Advanced Software Architecture
-
----
-
-## Connect With Me
-
-LinkedIn  
+Hackathons
+- Datathon LoDCORE 2026 — Winner · MadridNEXT, a municipal population and services simulator.
+- Boehringer Ingelheim Hackathon 2026 · NextGen Health, an experimental analytics-review prototype.
+Toolbox
+Languages: Java · Python · C · JavaScript · Solidity · SQL
+Backend & software engineering: Spring Boot · FastAPI · REST APIs · Hibernate/JPA · Maven · OOP · software architecture
+AI & data: pandas · NumPy · scikit-learn · XGBoost · SHAP · ONNX · data analysis · model evaluation
+Frontend: React · Vite · Tailwind CSS
+Other: Git · Linux · Arduino · Oracle · H2 Database · smart contracts
+Areas of Interest
+Artificial Intelligence · Machine Learning · LLMs · Cybersecurity · Data Science · Backend Engineering · Blockchain · Distributed Systems · Robotics
+Languages
+Spanish (native) · French (native) · English (advanced) · Italian (basic)
+<p align="center"><em>Great software is built through engineering discipline, continuous learning, and curiosity.</em></p>
 https://www.linkedin.com/in/alejandro-cuntin-bariteau-339651360/
 
 GitHub  
