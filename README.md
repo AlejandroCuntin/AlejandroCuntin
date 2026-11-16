@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student at URJC, expected to graduate in 2028. I enjoy building practical software and learning how systems work, from backend services and data pipelines to machine learning and embedded robotics.
+I'm a Computer Engineering student at URJC, expected to graduate in 2028. I’m especially interested in Artificial Intelligence and Data Science, and I enjoy applying them to practical problems through hands-on projects.
 
 Lately I've been exploring data science, explainable AI, LLM fundamentals, and cybersecurity through hands-on projects and hackathons.
 
@@ -35,9 +35,11 @@ Lately I've been exploring data science, explainable AI, LLM fundamentals, and c
 | --- | --- |
 | [MadridNEXT](https://github.com/AlejandroCuntin/datathon2026) 🥇 | Datathon LoDCORE 2026 winner. A what-if simulator for 155 municipalities in the Community of Madrid, combining demographic and service-capacity models with interactive maps. Built a reproducible Python ML pipeline and exported models to ONNX for Oracle integration. |
 | [NextGen Health](https://github.com/AlejandroCuntin/hackaton-boehringer-ingelheim-2026) | Experimental hackathon prototype for reviewing laboratory analytics. Includes a React interface, FastAPI backend, XGBoost model, longitudinal analysis, and SHAP explanations. |
+| [Data Science](https://github.com/AlejandroCuntin/data-science) | Jupyter notebooks and hands-on explorations in data science. |
 | [LLM Internals](https://github.com/AlejandroCuntin/llm-internals) | Learning project that implements automatic differentiation, backpropagation, small neural networks, and SGD, Momentum, and Adam optimizers in pure Python. |
 | [UltraFit](https://github.com/AlejandroCuntin/fitness-booking-website) | Fitness and membership management platform with Spring Boot, a REST API, authentication, reservations, and persistent storage. |
 | [MiSanidad](https://github.com/AlejandroCuntin/healthcare-management-system) | Java Swing healthcare management app with role-based dashboards, appointment scheduling, data persistence, and CSV reports. |
+
 
 ## Hackathons
 
